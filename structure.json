@@ -1,0 +1,67 @@
+{
+	"title": "The History of Pasta",
+	"chapters": [
+		{
+			"title": "Introduction"
+		},
+		{
+			"title": "Chapter 1: Origins of Pasta",
+			"sections": [
+				{
+					"title": "The Ancient Origins"
+				},
+				{
+					"title": "Pasta in Ancient Rome"
+				},
+				{
+					"title": "Pasta in Ancient China"
+				}
+			]
+		},
+		{
+			"title": "Chapter 2: Pasta in Italy",
+			"sections": [
+				{
+					"title": "The Birth of Italian Pasta"
+				},
+				{
+					"title": "Regional Varieties"
+				},
+				{
+					"title": "Pasta Shapes and Their Meanings"
+				}
+			]
+		},
+		{
+			"title": "Chapter 3: Pasta Around the World",
+			"sections": [
+				{
+					"title": "Pasta in Europe"
+				},
+				{
+					"title": "Pasta in the Americas"
+				},
+				{
+					"title": "Pasta in Asia"
+				}
+			]
+		},
+		{
+			"title": "Chapter 4: Pasta in Modern Times",
+			"sections": [
+				{
+					"title": "Industrial Revolution and Pasta Production"
+				},
+				{
+					"title": "Pasta in the 20th Century"
+				},
+				{
+					"title": "Pasta Today"
+				}
+			]
+		},
+		{
+			"title": "Conclusion"
+		}
+	]
+}
